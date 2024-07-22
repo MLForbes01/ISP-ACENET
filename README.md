@@ -1,11 +1,17 @@
-# ISP-ACENET
-Forecasting Family Physician Availability: Trends and Dynamics in New Brunswick :	
+# Forecasting Family Physician Availability: Trends and Dynamics in New Brunswick and Canada 	
 
-This project provides an in-depth analysis of 52 years of supply and distribution data for physicians in Canada, focusing on family doctors in New Brunswick. Through comprehensive descriptive statistical analysis, it highlights historical trends and develops a prediction model to forecast the number of family physicians beyond 2022, offering valuable insights for addressing physician shortages in the province.	
+Background: 
+-
+The availability of family physicians is crucial for maintaining public health across Canada. Understanding historical trends and dynamics is essential for addressing shortages effectively. This research focuses on New Brunswick, analyzing 52 years of data on family physicians from 1971 to 2022 and forecasting future availability using ARIMA models, while comparing with other provinces.
 
-The dataset used in this research contains 52 years (from 1971 to 2022) of data about physician supply and distribution in Canada, including demographic, education, and migration information. I am particularly interested in the columns for Specialty, Physician-to-100,000 population ratio, Number of physicians, Number male, Number female, Average age, Number in urban areas, and Number in rural areas.
+Objectives of the Study: 
+-
+* Conduct descriptive statistical analysis to understand historical trends in the supply and distribution of family physicians in New Brunswick.
+* Develop and validate a predictive model to forecast the number of family physicians in New Brunswick beyond 2022.
+* Implement the model using High-Performance Computing(HPC) resources to enhance processing efficiency and scalability.
 
-Canadian Institute for Health Information. Supply, Distribution and Migration of Physicians in Canada, 2022 — Historical Data. Ottawa, ON: CIHI; 2023.
+Dataset : Canadian Institute for Health Information. Supply, Distribution and Migration of Physicians in Canada, 2022 — Historical Data. Ottawa, ON: CIHI; 2023.
+
 
 
 
