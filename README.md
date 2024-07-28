@@ -12,7 +12,7 @@ Objectives of the Study:
 
 Dataset : Canadian Institute for Health Information. Supply, Distribution and Migration of Physicians in Canada, 2022 — Historical Data. Ottawa, ON: CIHI; 2023.
 
-
+https://www.cihi.ca/sites/default/files/document/supply-distribution-migration-physicians-in-canada-2022-data-tables-en.xlsx
 
 
 
